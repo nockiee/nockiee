@@ -7,3 +7,6 @@
 
 
 ![вот такой да](https://tenor.com/ru/view/asuna-sword-art-online-anime-kirito-smile-gif-15400005.gif)
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nockiee)](https://github.com/anuraghazra/github-readme-stats)
