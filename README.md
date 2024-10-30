@@ -6,4 +6,4 @@
 ничего не знаю но разбираюсь в биологии, поэтому знаю только то что такое питон и то что он больно кусается, вот на таком питоне програмирую програмы чтобы кодировать людей
 
 
-![вот такой да](https://tenor.com/ru/view/rokume-snake-beastars-six-eyes-gif-19083241.gif)
+![вот такой да]([https://tenor.com/ru/view/rokume-snake-beastars-six-eyes-gif-19083241.gif](https://tenor.com/ru/view/asuna-sword-art-online-anime-kirito-smile-gif-15400005))
